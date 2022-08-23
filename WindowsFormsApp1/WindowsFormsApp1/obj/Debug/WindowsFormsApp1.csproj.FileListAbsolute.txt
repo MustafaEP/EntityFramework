@@ -1,0 +1,16 @@
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\porta\OneDrive\Masaüstü\Ado.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
